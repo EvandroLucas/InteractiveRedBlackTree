@@ -1,0 +1,3 @@
+armazenar bigsample.txt
+achar 30170114174755471
+parar
